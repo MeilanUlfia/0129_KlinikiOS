@@ -123,9 +123,10 @@ Kewajiban pedoman: minimal satu progress per minggu, disertai commit.
 
 | Minggu | Tanggal | Progress | Commit |
 |---|---|---|---|
-| 1 | 22 Nov 2026 | Penentuan tema, judul, dan konsep aplikasi; disetujui asisten | - |
-| 1 | 22 Nov 2026 | Perancangan entitas, relasi, role, dan alur pengguna | - |
-| 1 | 22 Nov 2026 | Penyusunan SRS Bab 1 dan 2 | - |
+| 1 | 11 Nov 2026 | Penentuan tema, judul, dan konsep aplikasi; disetujui asisten | - |
+| 1 | 11-12 Nov 2026 | Perancangan entitas, relasi, role, dan alur pengguna | - |
+| 2 | 22 Nov 2026 | Penyusunan SRS Bab 1 dan 2 | - |
+| 3 | 23 Nov 2026 | Pembuatan repository dan README awal | (isi hash commit ini) |
 
 ### 11.2 Rencana commit berikutnya
 
